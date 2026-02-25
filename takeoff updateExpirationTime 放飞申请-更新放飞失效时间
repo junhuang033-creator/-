@@ -1,0 +1,15 @@
+{
+  "id": "01KD1TNM7SVKYASEXGTMP8RHRS",
+  "category": "uav",
+  "takeOffExpirationTime": "2025-12-22 09:30:00"
+}
+{
+  "code": "200",
+  "token": null,
+  "message": "success",
+  "timestamp": "2025-12-22 14:42:36",
+  "expireTime": null,
+  "isEncrypt": false,
+  "userType": null,
+  "data": "修改成功"
+}
