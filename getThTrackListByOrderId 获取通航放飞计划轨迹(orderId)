@@ -1,0 +1,39 @@
+{
+  "callsign": ""
+}
+{
+  "code": "200",
+  "data": {
+    "total": 532,
+    "list": [
+      {
+        "id": "01K61AW96XDWDDQ1MA0FGBM7RZ",
+        "orderId": "CGDS480A24A000094-20250926-95103370",
+        "flightStatus": "Inflight",
+        "manufacturerId": "91440300342528817F",
+        "uasId": "CGDS480A24A000094",
+        "timeStamp": "20250926050114",
+        "uasModel": "S480",
+        "coordinate": 1,
+        "longitude": "114.5536238",
+        "latitude": "30.4954044",
+        "flightTime": 0,
+        "gs": 0,
+        "height": 0,
+        "altitude": 3500,
+        "heightAltitype": 4,
+        "category": "UAV",
+        "course": 27766,
+        "vs": 100,
+        "area": null,
+        "isProcess": "0",
+        "remark": "{\"header\":{\"stype\":\"UavTrackMsg\",\"ddtm\":\"2025-09-26 05:01:14.248\",\"type\":\"uav\",\"msgid\":\"7515f1f58189455eb24dcff70ee8fe59\",\"sndr\":\"puzhou\"},\"body\":[{\"orderID\":\"CGDS480A24A000094-20250926-95103370\",\"flightStatus\":\"Inflight\",\"manufacturerID\":\"91440300342528817F\",\"uasID\":\"CGDS480A24A000094\",\"timeStamp\":\"20250926050114\",\"uasModel\":\"S480\",\"coordinate\":1,\"longitude\":1145536238,\"latitude\":304954044,\"heightAltitype\":4,\"height\":0,\"altitude\":3500,\"course\":27766,\"flightTime\":0,\"category\":\"UAV\",\"cplanId\":null,\"VS\":100,\"GS\":0}]}",
+        "createTime": "2025-09-25T21:01:15.000+00:00",
+        "updateTime": "2025-09-25T21:01:15.000+00:00"
+      }
+    ]
+  },
+  "message": "success",
+  "timestamp": "2025-09-28 17:50:43",
+  "token": null
+}
