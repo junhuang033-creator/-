@@ -1,0 +1,54 @@
+{
+  "bizId": "string",
+  "bizType": "string",
+  "date": "string"
+}
+{
+  "code": "string",
+  "data": [
+    {
+      "stationId": "string",
+      "stationName": "string",
+      "stationI": "string",
+      "stationLongitude": "string",
+      "stationLatitude": "string",
+      "address": "Unknown Type: null",
+      "city": "string",
+      "humidity": 0,
+      "lat": 0,
+      "lon": 0,
+      "maxTemp": 0,
+      "minTemp": 0,
+      "obsTime": "string",
+      "rain12hour": 0,
+      "rain24hour": 0,
+      "rain3hour": 0,
+      "rain6hour": 0,
+      "rainHour": 0,
+      "roadCode": "Unknown Type: null",
+      "roadCondition": "Unknown Type: null",
+      "staId": "string",
+      "staName": "string",
+      "surfaceTemp": 0,
+      "temMax24": 0,
+      "temMin24": 0,
+      "temperature": 0,
+      "visibility": 0,
+      "wepNow": "string",
+      "windDirect2m": 0,
+      "windDirect2mRemark": "Unknown Type: null",
+      "windVelocity": "Unknown Type: null",
+      "windVelocity2m": 0,
+      "createTime": "string",
+      "updateTime": "string",
+      "batchNo": 0,
+      "stationType": "string",
+      "wepNowRemark": "Unknown Type: null",
+      "windGrade": "string",
+      "windDirectDes": "string"
+    }
+  ],
+  "message": "string",
+  "timestamp": "string",
+  "token": "string"
+}
