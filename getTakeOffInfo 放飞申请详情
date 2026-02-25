@@ -1,0 +1,142 @@
+TASK_ENTRUSTMENT_FILES("任务委托书"), GOVERNMENT_CONSENT_FILES("政府部门同意文书"), POLICE_FILING_FILES("公安机关备案文书"), POLICE_PERMIT_FILES("公安部门许可证明"), FLIGHT_AREA_MAP_FILES("飞行区域示意图"), VENUE_USAGE_AGREEMENT_FILES("场地使用协议"), FLIGHT_SITE_PHOTOS_FILES("飞行场地及周边实景图片"), SPORTS_CULTURE_FILING_FILES("体育主管部门或文旅局备案文书"), STREET_OFFICE_FILING_FILES("街道办（县镇村委会）备案文书"), SITE_PHOTOS_FILES("场地实景图"), TRAINING_INSTITUTION_CERT_FILES("训练机构合格证"), TRAINING_VENUE_AGREEMENT_FILES("培训场地使用协议"), UAV_PERFORMANCE_GOV_CONSENT_FILES("无人机表演政府部门同意文书"), BAS_AIRCRAFT_FILES("空域选择航空器的三个图片"), BAS_USER_FILES("新增空域时的用户资质"), 席位创建放飞上传的附件-businessType：TAKEOFF_PLAN_FILES
+{
+  "id": "01JYQKGXPSMNMD61S6108Z9AEN",
+  "category": "th"
+}
+{
+  "code": "200",
+  "data": {
+    "id": "01K2XK7ZVNW9PD7YS8QC4PGQYE",
+    "category": "th",
+    "cPlanId": "ZNHB-20250818-P000001-001",
+    "planId": "01K2XJGTDRH9WR68VQXT47HQEP",
+    "remark": "",
+    "subjectCode": "91440300MA5FXE4545",
+    "subjectName": "丰翼科技有限公司",
+    "missionlabel": "1",
+    "flightMode": "I",
+    "planBeginTime": "2025-08-18 00:00:00",
+    "planEndTime": "2025-08-18 23:59:59",
+    "beginTime": "2025-08-18 00:00:00",
+    "endTime": "2025-08-18 23:59:00",
+    "depPointId": "01K2PDYBSPZ4DEBP273NXDVYH8",
+    "arrPointId": "26",
+    "createTime": "2025-08-18 11:23:19",
+    "airspaceIds": "01K2RHH5A81TFV6A1R1T510WTV",
+    "pilotIds": "01K0Y0GQX160GRP02MRZANDNFR",
+    "aircraftIds": "01K2RWHBPT2NBG4S0DWZH7RTXP",
+    "aircrafts": [
+      {
+        "id": "01K2RWHBPT2NBG4S0DWZH7RTXP",
+        "aircraftModel": "SNhankongqi",
+        "aircraftNumber": "SNhankongqi",
+        "callsign": "SNhankongqi",
+        "beidou": "",
+        "device": "1",
+        "isAdsb": 1,
+        "remark": "",
+        "createTime": "2025-08-16T07:29:36.000+00:00",
+        "updateTime": "2025-08-16T07:29:27.000+00:00",
+        "aircraftType": "3",
+        "factory": "大疆",
+        "emptyWeight": "100",
+        "maxTakeoffWeight": "1000",
+        "manufacturerId": "",
+        "addressCode": "",
+        "creatorId": "01K074WE67XW6HDVYY5AEXZ16M"
+      }
+    ],
+    "operator": [
+      {
+        "id": "01K0Y0GQX160GRP02MRZANDNFR",
+        "userId": "01K074WE67XW6HDVYY5AEXZ16M",
+        "name": "陈国庆",
+        "idCard": "440131198402122215",
+        "sex": "男",
+        "age": "35",
+        "nationality": null,
+        "nation": null,
+        "phone": "15866497795",
+        "email": null,
+        "address": "",
+        "myPhotoIds": null,
+        "lastFlyDate": null,
+        "updateTime": "2025-07-24T10:43:56.843+00:00",
+        "createTime": "2025-07-24T10:43:56.843+00:00",
+        "pilotType": "T",
+        "idType": null,
+        "remark": null,
+        "manufacturerId": "91440300MA5FXE4545",
+        "crewType": null,
+        "idTypeLabel": null,
+        "crewTypeLabel": null
+      }
+    ],
+    "airspaceInfo": [
+      {
+        "id": "01K2RHH5A81TFV6A1R1T510WTV",
+        "airspaceId": "1755317834104",
+        "manufacturerId": "91440300MA5FXE4545",
+        "remark": "",
+        "availability": "[{\"start\":\"2025-08-16 08:30:00\",\"stop\":\"2025-08-30 18:30:00\",\"isStartIncluded\":null,\"isStopIncluded\":null}]",
+        "geometryType": "",
+        "airspaceTop": 200,
+        "airspaceBot": 100,
+        "airspaceWidth": 1100,
+        "coordinates": "[[113.8231,34.5197,100],[114.2342753876331,30.613992417362937,100],[114.28566630576745,30.636417545276107,100],[114.27165060082172,30.599042332087492,100],[114.26651150900828,30.592501669779487,100],[114.247778,30.5825,100]]",
+        "militaryRegion": "",
+        "isLongTerm": 0,
+        "applyUserType": "E",
+        "mission": "18",
+        "geojson": "{\"type\":\"Feature\",\"properties\":{\"category\":\"无人机航线\",\"id\":1755317834104,\"style\":{\"outline\":true,\"color\":\"#3388ff\",\"materialType\":\"Color\",\"width\":50,\"outlineColor\":\"#efefef\",\"opacity\":0.6,\"diffHeight\":100,\"clampToGround\":false,\"height\":100},\"name\":\"0816-通航01\",\"code\":1755317834104,\"maxHeight\":\"200\",\"shape\":\"corridorP\",\"type\":\"corridorP\",\"availability\":[{\"start\":\"2025-08-16 08:30:00\",\"stop\":\"2025-08-30 18:30:00\",\"isStartIncluded\":null,\"isStopIncluded\":null}],\"options\":{\"availability\":[{\"start\":\"2025-08-16 08:30:00\",\"stop\":\"2025-08-30 18:30:00\",\"isStartIncluded\":null,\"isStopIncluded\":null}]}},\"geometry\":{\"type\":\"LineString\",\"coordinates\":[[113.8231,34.5197,100],[114.2342753876331,30.613992417362937,100],[114.28566630576745,30.636417545276107,100],[114.27165060082172,30.599042332087492,100],[114.26651150900828,30.592501669779487,100],[114.247778,30.5825,100]]}}",
+        "approvalStatus": "N",
+        "preStatus": "N",
+        "jmdStatus": "N",
+        "templateFlag": "1",
+        "createTime": "2025-08-16 12:17:16",
+        "updateTime": "2025-08-16 12:26:36",
+        "shape": 1,
+        "approvalStatusLabel": "审核通过",
+        "preStatusLabel": "审核通过",
+        "jmdStatusLabel": "审核通过",
+        "spaces": [
+          {
+            "id": "01K2RHH7ZKMEATM0RVGWC0SCBT",
+            "airspaceId": "01K2RHH5A81TFV6A1R1T510WTV",
+            "airspaceBot": 100,
+            "airspaceTop": 200,
+            "memo": null,
+            "rangeType": null,
+            "minAngle": 0,
+            "maxAngle": 90,
+            "radius": null,
+            "points": []
+          }
+        ],
+        "periods": [
+          {
+            "id": "01K2RHH7P9GW908JWKSE76K43P",
+            "airspaceId": "01K2RHH5A81TFV6A1R1T510WTV",
+            "startDate": "2025-08-16",
+            "endDate": "2025-08-30",
+            "startTime": "08:30:00",
+            "endTime": "18:30:00"
+          }
+        ]
+      }
+    ],
+    "depPoint": {
+      "pointName": "湖北新郑国际机场",
+      "lon": 113.8231,
+      "lat": 34.5197
+    },
+    "arrPoint": {
+      "pointName": "武汉血液中心航线",
+      "lon": 114.247778,
+      "lat": 30.5825
+    }
+  },
+  "message": "success",
+  "timestamp": "2025-08-19 08:56:32",
+  "token": "eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJVQVZfQyIsInN1YiIJleHAiOjE3NTU3Mzc3ODJ9.32pXJr4qjSOwBZAbW0zx5nYkN3uqT-vhERzhu5cAqBc"
+}
