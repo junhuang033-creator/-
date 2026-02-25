@@ -1,0 +1,14 @@
+[
+  {
+    "id": "01K5GVW15EFW9KDNEZTVQRR2WH",
+    "approvalUserIds": "UAV_C",
+    "category": "uav"
+  }
+]
+{
+  "code": "200",
+  "data": "FAIL",
+  "message": "success",
+  "timestamp": "2025-07-12 01:25:20",
+  "token": null
+}
