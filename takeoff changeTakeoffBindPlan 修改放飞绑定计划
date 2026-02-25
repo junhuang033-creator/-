@@ -1,0 +1,6 @@
+{
+  "newCPlanId": "string",
+  "category": "string",
+  "orderId": "string",
+  "aircraft": "string"
+}
