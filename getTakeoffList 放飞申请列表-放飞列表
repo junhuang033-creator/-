@@ -1,0 +1,46 @@
+支持待放飞、放飞确认、放飞驳回、撤回四个接口
+{
+  "category": "th",
+  "beginTime": "2025-08-18",
+  "endTime": "2028-08-19",
+  "mission": "1",
+  "missionCategory": "th",
+  "userType": "E",
+  "status": "N"
+}
+{
+  "code": "200",
+  "data": {
+    "total": 1,
+    "list": [
+      {
+        "category": "th",
+        "id": "01K2XK7ZVNW9PD7YS8QC4PGQYE",
+        "cPlanId": "ZNHB-20250818-P000001-001",
+        "subjectName": "丰翼科技有限公司",
+        "status": "S",
+        "beginTime": "2025-08-18 00:00:00",
+        "endTime": "2025-08-18 23:59:00",
+        "applyTime": "2025-08-18 11:23:19",
+        "depPointId": "01K2PDYBSPZ4DEBP273NXDVYH8",
+        "arrPointId": "26",
+        "userType": "E",
+        "rowId": 1,
+        "depPoint": {
+          "pointName": "湖北新郑国际机场",
+          "lon": 113.8231,
+          "lat": 34.5197
+        },
+        "arrPoint": {
+          "pointName": "武汉血液中心航线",
+          "lon": 114.247778,
+          "lat": 30.5825
+        },
+        "statusLabel": "待审核"
+      }
+    ]
+  },
+  "message": "success",
+  "timestamp": "2025-08-18 15:30:11",
+  "token": "eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJVQVZfQyIsInN1YiI6Il_pORmuyyUo"
+}
