@@ -1,0 +1,15 @@
+{
+  "cancel": 28,
+  "waitPreApproval": 1,
+  "waitApproval": 0,
+  "pause": 0,
+  "waitTakeoff": 1,
+  "fly": 9,
+  "total": 146,
+  "stop": 3,
+  "reject": 18,
+  "waitReport": 81,
+  "invalid": 0,
+  "land": 0,
+  "withdraw": 5
+}
